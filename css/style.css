@@ -28,6 +28,9 @@ body {
 
 #authors img {
   margin-top: -50px; }
+#authors .card{
+  background: rgb(241, 241, 241);
+}
 #authors .card:hover {
   background: #3292a6;
   color: #fff; }
